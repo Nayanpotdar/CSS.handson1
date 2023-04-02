@@ -1,0 +1,49 @@
+h1{
+    color: red;
+}
+ol{
+    color: brown;
+}
+
+li{
+    line-height: 50px;
+}
+h2{
+    color: tomato;
+    font-style: italic;
+}
+
+.one{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.bg{
+    background-color: yellow;
+}
+
+#demo{
+    font-style: italic;
+    text-decoration: underline;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+
+.con2{
+    color: brown;
+    letter-spacing: 2px;
+}
+
+.ul{
+    line-height: 10px;
+}
+
+
+.np{
+    background-color: yellow;
+    font-weight: bold;
+}
+.fgb{
+    color:brown ;
+}
